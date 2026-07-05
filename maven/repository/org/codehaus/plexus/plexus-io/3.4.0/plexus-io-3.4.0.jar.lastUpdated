@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Sep 24 14:50:58 CST 2025
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1758696658280
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.codehaus.plexus\:plexus-io\:jar\:3.4.0 from/to central (https\://repo.maven.apache.org/maven2)\: Connect to repo.maven.apache.org\:443 [repo.maven.apache.org/146.75.112.215] failed\: Connect timed out

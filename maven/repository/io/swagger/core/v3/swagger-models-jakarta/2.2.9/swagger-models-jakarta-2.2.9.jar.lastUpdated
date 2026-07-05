@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Sep 24 14:46:50 CST 2025
+@default-spring-release-https\://repo.spring.io/release/.lastUpdated=1758696258446
+https\://repo.maven.apache.org/maven2/.lastUpdated=1758696410694
+https\://repo.spring.io/release/.error=Could not transfer artifact io.swagger.core.v3\:swagger-models-jakarta\:jar\:2.2.9 from/to spring-release (https\://repo.spring.io/release)\: status code\: 401, reason phrase\:  (401)
+https\://repo.spring.io/snapshot/.error=
+https\://repo.spring.io/snapshot/.lastUpdated=1758696258710
